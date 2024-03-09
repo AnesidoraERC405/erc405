@@ -68,7 +68,7 @@ ERC405 follows the inscription specifications, where the calldata parameter _cal
 Deploy the contract on Remix, import the relevant dependencies, and set the appropriate parameters for deployment.
 You will get an asset token with attributes including inscription, NFT, and ERC20 all in one.
 
-But remember, when adding liquidity to Uniswap for the first time, please add tokens with a coefficient smaller than the splitting factor to prevent NFTs from being owned by the pool. Once you obtain the pool address, use the setWhitelist function to add exemptions to the pool address.
+But remember, when adding liquidity to Uniswap for the first time, please add tokens with a coefficient smaller than the splitting factor to prevent NFTs from being owned by the pool. Once you obtain the pool address, use the setWhitelist function to add exemptions.
 
 ## License
 
