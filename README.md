@@ -40,6 +40,7 @@ When will this NFT be given to Alice? As soon as anyone transfers over 500,000 t
 How is the gas issue addressed then? 
 As no burn-mint model is employed, we enhance the ERC1155 protocol to support batch transfers., so the gas fees for asset transfers are almost identical to ERC20 tokens.
 Average gas costs per 100NFTs:
+
 ![image](https://github.com/AnesidoraERC405/resource/blob/main/compare.png?raw=true)
 
 ## Quickstart
